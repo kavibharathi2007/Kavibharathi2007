@@ -1,8 +1,5 @@
    # Hi 👋 I'm Kavibharathi
-
-### 💻 CSE Student | 🌐 Networking Learner|🔐 Cybersecurity Enthusiast  
-
-### 💻 Programming Languages
+### 💻 CSE Student | 🌐 Networking Learner|🔐 Cybersecurity Enthusiast
 
 <p align="left">
   <img
