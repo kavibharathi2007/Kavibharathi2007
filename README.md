@@ -3,11 +3,7 @@
   sr## 🛠️ Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,linux" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,github,vscode" />
 </p>
 ---
 🚀 Exploring Cybersecurity, Networking, AI & Software Development  
