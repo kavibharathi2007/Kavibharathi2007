@@ -1,16 +1,10 @@
-   # Hi 👋 I'm Kavibharathi
-### 💻 CSE Student | 🌐 Networking Learner|🔐 Cybersecurity Enthusiast
-
 <p align="left">
   <img
   sr## 🛠️ Technical Skills
 
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,linux" />
 </p>
-
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,mysql" />
