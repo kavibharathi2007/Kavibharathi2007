@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 ---
 🚀 Exploring Cybersecurity, Networking, AI & Software Development  
