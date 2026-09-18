@@ -1,21 +1,8 @@
    # Hi 👋 I'm Kavibharathi
 
-### 💻 CSE Student | 🔐 Cybersecurity Enthusiast | 🌐 Networking Learner 
-
-🚀 Exploring Cybersecurity, Networking, AI & Software Development  
-🔐 Interested in SOC Operations, Cloud Security & Ethical Hacking  
-🌐 Building and simulating computer networks using Cisco Packet Tracer  
-☕ Developing networking applications using Java  
-🐍 Learning Python for automation and cybersecurity  
-💡 Always learning, building and improving
-
----
-
-## 🛠️ Technical Skills
+### 💻 CSE Student | 🌐 Networking Learner|🔐 Cybersecurity Enthusiast  
 
 ### 💻 Programming Languages
-
-
 
 <p align="left">
   <img
@@ -27,16 +14,7 @@
   <img src="https://skillicons.dev/icons?i=c,python,java" />
 </p>
 
-
-
-
 ### 🔐 Cybersecurity
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-### 🔐 Cybersecurity
-
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -65,9 +43,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,mysql" />
 </p>
-
-
 ---
+🚀 Exploring Cybersecurity, Networking, AI & Software Development  
+🔐 Interested in SOC Operations, Cloud Security & Ethical Hacking  
+🌐 Building and simulating computer networks using Cisco Packet Tracer  
+☕ Developing networking applications using Java  
+🐍 Learning Python for automation and cybersecurity  
+💡 Always learning, building and improving
+
 
 ## 🚀 Featured Projects
 
