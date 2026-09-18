@@ -12,14 +12,6 @@
 </p>
 
 
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode,html,css,mysql" />
 </p>
