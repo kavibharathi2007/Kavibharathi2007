@@ -8,7 +8,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,kalilinux" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux" />
 </p>
 
 
